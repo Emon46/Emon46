@@ -22,8 +22,8 @@
 ### Hi there! I'm Emon 👋
 
 - 🔭 I’m currently working @AppsCode ([KubeDB](https://github.com/kubedb))
-- 🌱 I’m currently learning Kubernetes, Docker, Golang, postgres Clustering, Redis Clustering, Distributed System Design, and Cloud Architecture.
-- 💬 Ask me about anything related to  Kubernetes, Docker, Golang, postgres Clustering, Redis Clustering, Distributed System Design.
+- 🌱 I’m currently learning Kubernetes, Docker, Golang, postgres Clustering, Redis Clustering, Grafana, Prometheus, Distributed System Design, and Cloud Architecture.
+- 💬 Ask me about anything related to  Kubernetes, Docker, Golang, postgres Clustering, Redis Clustering, Grafana, Prometheus, Distributed System Design.
 - 📫 How to reach me: shoot an email at "hremon331046@gmail.com"
 - 🎿 Hobbies other than coding: Watching movies/series, Learning new Stuffs.
 
